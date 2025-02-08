@@ -1,0 +1,39 @@
+body {
+color: white;
+background-color: black;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+display: flex;
+justify-content: space-between;
+list-style-type: none;
+align-items: center;
+padding: 16px;
+}
+
+a {
+   color: white;
+} 
+
+h1 {
+color: #ff0000;
+}
+header img {
+border-radius: 50%;
+border: 5px solid black;
+}
+.center {
+text-align: center;
+}
+
+footer img{
+   width: 70px;
+   height: 40px;
+}
+.contact-form input {
+   width: 100%
+   padding: 8px 0px;
+   margin: 8px 0px;
+}
+
